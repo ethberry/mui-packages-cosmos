@@ -1,0 +1,73 @@
+{
+  "author": {
+    "email": "trejgun@gemunion.io",
+    "name": "TrejGun",
+    "url": "https://gemunion.io/"
+  },
+  "dependencies": {
+    "@lerna/legacy-package-management": "8.1.6",
+    "lerna": "8.1.6",
+    "nx": "19.5.1"
+  },
+  "devDependencies": {
+    "@emotion/react": "11.13.0",
+    "@emotion/styled": "11.13.0",
+    "@gemunion/eslint-config": "4.0.6",
+    "@gemunion/provider-license": "3.0.51",
+    "@mui/material": "5.16.4",
+    "@typescript-eslint/eslint-plugin": "7.16.1",
+    "@typescript-eslint/parser": "7.16.1",
+    "babel-plugin-inline-import": "3.0.0",
+    "eslint": "8.57.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-config-standard": "17.1.0",
+    "eslint-import-resolver-typescript": "3.6.1",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-jest": "27.9.0",
+    "eslint-plugin-n": "16.6.2",
+    "eslint-plugin-prettier": "5.2.1",
+    "eslint-plugin-promise": "6.5.1",
+    "eslint-plugin-react": "7.35.0",
+    "eslint-plugin-react-hooks": "4.6.2",
+    "eslint-plugin-testing-library": "6.2.2",
+    "husky": "4.3.8",
+    "javascript-obfuscator": "4.1.1",
+    "lint-staged": "15.2.7",
+    "prettier": "3.3.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-hook-form": "7.52.1",
+    "react-router-dom": "6.25.1",
+    "rimraf": "6.0.1",
+    "storybook": "8.2.5",
+    "typescript": "5.5.3",
+    "webpack": "5.93.0"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED",
+  "name": "@gemunion/mui-packages",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gemunion/mui-packages-cosmos"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap --concurrency 1 --hoist --ignore-scripts",
+    "build": "lerna run build --concurrency 1 --stream",
+    "clean": "sh scripts/clean.sh",
+    "kill": "sudo pkill -9 node",
+    "lerna:changed": "lerna changed",
+    "lerna:publish": "lerna publish from-package --yes --exact --ignore-scripts",
+    "lerna:version": "lerna version --ignore-scripts",
+    "lint": "lerna run lint --stream",
+    "obfuscate": "sh scripts/obfuscate.sh",
+    "prettier": "prettier \"components/**/*.{ts,tsx}\" \"other/**/*.{ts,tsx}\" \"providers/**/*.{ts,tsx}\" --write",
+    "storybook": "storybook dev -p 6006",
+    "test": "sh scripts/test.sh"
+  },
+  "version": "0.0.1"
+}
