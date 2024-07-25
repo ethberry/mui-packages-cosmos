@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.1.0 (2024-07-25)
+
+### Features
+
+- publish config ver ([b6b35ba](https://github.com/gemunion/mui-packages/commit/b6b35bab8e86e7875588de34a8366be7f4162020))
+
 ## [1.1.74](https://github.com/gemunion/mui-packages/compare/@gemunion/login-button-keplr@1.1.73...@gemunion/login-button-keplr@1.1.74) (2024-07-24)
 
 ### Bug Fixes
