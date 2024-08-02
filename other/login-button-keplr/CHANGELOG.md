@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/gemunion/mui-packages/compare/@gemunion/login-button-keplr@2.1.0...@gemunion/login-button-keplr@2.1.1) (2024-08-02)
+
+### Bug Fixes
+
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([b0366ea](https://github.com/gemunion/mui-packages/commit/b0366eab20569e2daf0ffe12f5266c503720d358))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([1cc44d5](https://github.com/gemunion/mui-packages/commit/1cc44d58a8849669fb61195ec8799a772b863480))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([6ca971b](https://github.com/gemunion/mui-packages/commit/6ca971bdf875853d5bc81ec43218f4bcaa52b198))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([c1f21d8](https://github.com/gemunion/mui-packages/commit/c1f21d8d5aa62b82bfef0144c6d9f7dad3a64d1c))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages to v2 ([1fd7d8e](https://github.com/gemunion/mui-packages/commit/1fd7d8e11144977e241e76e27d95db12dc5433a9))
+- **deps:** update all non-major dependencies ([eebf2c7](https://github.com/gemunion/mui-packages/commit/eebf2c7e174be629d845087fb119be53e7a46407))
+- **deps:** update all non-major dependencies ([c63d1d6](https://github.com/gemunion/mui-packages/commit/c63d1d648be65f623f5df840059ddf9aa70fb418))
+- lint ([4e882a2](https://github.com/gemunion/mui-packages/commit/4e882a2a15abc15bb80d235658073000e444c895))
+
 # 2.1.0 (2024-07-25)
 
 ### Features

@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/gemunion/mui-packages/compare/@gemunion/provider-cosmos@2.1.0...@gemunion/provider-cosmos@2.1.1) (2024-08-02)
+
+### Bug Fixes
+
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([1cc44d5](https://github.com/gemunion/mui-packages/commit/1cc44d58a8849669fb61195ec8799a772b863480))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([c1f21d8](https://github.com/gemunion/mui-packages/commit/c1f21d8d5aa62b82bfef0144c6d9f7dad3a64d1c))
+- **deps:** update all non-major dependencies ([eebf2c7](https://github.com/gemunion/mui-packages/commit/eebf2c7e174be629d845087fb119be53e7a46407))
+- **deps:** update all non-major dependencies ([c63d1d6](https://github.com/gemunion/mui-packages/commit/c63d1d648be65f623f5df840059ddf9aa70fb418))
+
 # 2.1.0 (2024-07-25)
 
 ### Features
