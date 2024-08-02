@@ -10,10 +10,10 @@
   "dependencies": {
     "@cosmjs/stargate": "0.32.4",
     "@gemunion/constants": "0.12.16",
-    "@gemunion/firebase-login": "2.3.87",
-    "@gemunion/mui-page-layout": "2.3.46",
+    "@gemunion/firebase-login": "2.3.89",
+    "@gemunion/mui-page-layout": "2.3.47",
     "@gemunion/provider-cosmos": "1.1.51",
-    "@gemunion/react-hooks": "2.0.34",
+    "@gemunion/react-hooks": "2.0.35",
     "@gemunion/react-hooks-cosmos": "1.1.52",
     "@keplr-wallet/types": "0.12.114",
     "uuid": "10.0.0"
