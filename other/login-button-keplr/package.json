@@ -12,9 +12,9 @@
     "@gemunion/constants": "0.13.0",
     "@gemunion/firebase-login": "2.3.89",
     "@gemunion/mui-page-layout": "2.3.47",
-    "@gemunion/provider-cosmos": "1.1.51",
+    "@gemunion/provider-cosmos": "2.1.0",
     "@gemunion/react-hooks": "2.0.35",
-    "@gemunion/react-hooks-cosmos": "1.1.52",
+    "@gemunion/react-hooks-cosmos": "2.1.0",
     "@keplr-wallet/types": "0.12.119",
     "uuid": "10.0.0"
   },
