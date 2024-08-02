@@ -47,7 +47,7 @@ export const KeplrLoginButton: FC<IFirebaseLoginButtonProps> = props => {
 
         const chainInfo = await keplr.getChainInfosWithoutEndpoints();
         const offlineSigner = getOfflineSigner(chainId);
-        const chainPrefix = chainInfo.find(chain => chain.chainId === chainId)!.bech32Config.bech32PrefixAccAddr;
+        const chainPrefix = chainInfo.find(chain => chain.chainId === chainId)!.bech32Config!.bech32PrefixAccAddr;
         const keplrAccounts = await offlineSigner.getAccounts();
         const wallet = keplrAccounts[0].address;
         const nonce = v4();

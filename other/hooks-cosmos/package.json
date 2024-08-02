@@ -29,7 +29,7 @@
   "main": "./dist/index.js",
   "name": "@gemunion/react-hooks-cosmos",
   "peerDependencies": {
-    "@gemunion/provider-cosmos": "^1.0.0 || ^2.0.0",
+    "@gemunion/provider-cosmos": "^2.0.0",
     "@gemunion/provider-license": "^3.0.0",
     "@keplr-wallet/types": "^0.12.20",
     "notistack": "^3.0.0",
