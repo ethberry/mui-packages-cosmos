@@ -14,7 +14,7 @@
     "@emotion/styled": "11.13.0",
     "@gemunion/eslint-config": "4.0.6",
     "@gemunion/provider-license": "3.0.52",
-    "@mui/material": "5.16.6",
+    "@mui/material": "5.16.7",
     "@typescript-eslint/eslint-plugin": "8.0.1",
     "@typescript-eslint/parser": "8.0.1",
     "babel-plugin-inline-import": "3.0.0",
