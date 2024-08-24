@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.2](https://github.com/gemunion/mui-packages/compare/@gemunion/login-button-keplr@2.1.1...@gemunion/login-button-keplr@2.1.2) (2024-08-24)
+
+### Bug Fixes
+
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([08b50c0](https://github.com/gemunion/mui-packages/commit/08b50c0e71c484d42d49b200e1d7b81081ec1bb6))
+- **deps:** update all non-major dependencies ([eb77860](https://github.com/gemunion/mui-packages/commit/eb77860283c66c36eab356ab8b38e30d644045c3))
+- **deps:** update gemunion to v2.3.91 ([fc19648](https://github.com/gemunion/mui-packages/commit/fc19648c0d1d09df2b3ffe3a9b056a225b93c353))
+
 ## [2.1.1](https://github.com/gemunion/mui-packages/compare/@gemunion/login-button-keplr@2.1.0...@gemunion/login-button-keplr@2.1.1) (2024-08-02)
 
 ### Bug Fixes
