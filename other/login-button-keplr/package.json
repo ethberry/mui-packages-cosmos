@@ -10,8 +10,8 @@
   "dependencies": {
     "@cosmjs/stargate": "0.32.4",
     "@gemunion/constants": "0.13.1",
-    "@gemunion/firebase-login": "2.3.98",
-    "@gemunion/mui-page-layout": "2.3.51",
+    "@gemunion/firebase-login": "3.0.5",
+    "@gemunion/mui-page-layout": "3.0.2",
     "@gemunion/provider-cosmos": "2.1.2",
     "@gemunion/react-hooks": "2.0.42",
     "@gemunion/react-hooks-cosmos": "2.1.2",
