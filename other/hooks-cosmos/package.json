@@ -10,13 +10,13 @@
   "dependencies": {
     "@cosmjs/encoding": "0.32.4",
     "@gemunion/license-messages": "0.0.36",
-    "@gemunion/provider-api": "7.0.88",
+    "@gemunion/provider-api": "7.0.89",
     "@gemunion/provider-cosmos": "2.1.2",
     "@keplr-wallet/types": "0.12.128"
   },
   "description": "react hooks cosmos",
   "devDependencies": {
-    "@gemunion/provider-license": "3.0.55",
+    "@gemunion/provider-license": "3.0.56",
     "notistack": "3.0.1",
     "react": "18.3.1",
     "react-intl": "6.6.8"
