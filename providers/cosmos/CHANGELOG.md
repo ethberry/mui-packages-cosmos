@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.3](https://github.com/gemunion/mui-packages/compare/@gemunion/provider-cosmos@2.1.2...@gemunion/provider-cosmos@2.1.3) (2024-09-21)
+
+### Bug Fixes
+
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([1036e0c](https://github.com/gemunion/mui-packages/commit/1036e0c16a245ced9151843753fdf589ab007f73))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([911bebe](https://github.com/gemunion/mui-packages/commit/911bebe129ccbea92c6b50917854f29aa703c21d))
+- **deps:** update [@gemunion](https://github.com/gemunion) packages ([87a8a35](https://github.com/gemunion/mui-packages/commit/87a8a35910607e1f6e69a5d212c646d8c468b61f))
+- **deps:** update all non-major dependencies ([4c8ce2e](https://github.com/gemunion/mui-packages/commit/4c8ce2eafb55ea63c6f27b7585fe35e5ab465a7f))
+- **deps:** update all non-major dependencies ([1ad7edb](https://github.com/gemunion/mui-packages/commit/1ad7edbfa9db9c40de02f84ddfdff902a5295b76))
+- **deps:** update all non-major dependencies ([8503cba](https://github.com/gemunion/mui-packages/commit/8503cbad8b148b1f74065c3083842883c59ec774))
+
 ## [2.1.2](https://github.com/gemunion/mui-packages/compare/@gemunion/provider-cosmos@2.1.1...@gemunion/provider-cosmos@2.1.2) (2024-08-24)
 
 ### Bug Fixes
