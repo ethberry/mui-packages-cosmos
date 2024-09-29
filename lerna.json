@@ -9,7 +9,7 @@
       "yes": true
     }
   },
-  "packages": ["components/*", "other/*", "providers/*"],
+  "packages": ["other/*", "providers/*"],
   "useNx": true,
   "version": "independent"
 }

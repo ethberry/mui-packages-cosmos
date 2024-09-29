@@ -1,8 +1,8 @@
 import { FC, PropsWithChildren, useEffect, useState } from "react";
 
-import { useLicense } from "@gemunion/provider-license";
-import { usePopup } from "@gemunion/provider-popup";
-import { useUser } from "@gemunion/provider-user";
+import { useLicense } from "@ethberry/provider-license";
+import { usePopup } from "@ethberry/provider-popup";
+import { useUser } from "@ethberry/provider-user";
 
 import { useRegisteredChains } from "../hooks";
 import type { ICosmosChain, IUserAccount } from "../interfaces";

@@ -2,9 +2,9 @@ import { FC, useMemo } from "react";
 import { Badge, Box, IconButton, Tooltip } from "@mui/material";
 import { useIntl } from "react-intl";
 
-import { usePopup } from "@gemunion/provider-popup";
-import { useLicense } from "@gemunion/provider-license";
-import { useUser } from "@gemunion/provider-user";
+import { usePopup } from "@ethberry/provider-popup";
+import { useLicense } from "@ethberry/provider-license";
+import { useUser } from "@ethberry/provider-user";
 
 import { WalletIcon } from "../icon";
 import { useCosmos, COSMOS_CONNECT_POPUP_TYPE } from "../provider";

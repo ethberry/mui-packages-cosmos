@@ -1,9 +1,9 @@
 import { enqueueSnackbar } from "notistack";
 import { useIntl } from "react-intl";
 
-import { downForMaintenance } from "@gemunion/license-messages";
-import { useLicense } from "@gemunion/provider-license";
-import { chainInfoByChainId, useCosmos } from "@gemunion/provider-cosmos";
+import { downForMaintenance } from "@ethberry/license-messages";
+import { useLicense } from "@ethberry/provider-license";
+import { chainInfoByChainId, useCosmos } from "@ethberry/provider-cosmos";
 
 import type { ICosmosParams, IHandlerOptionsParams } from "./interfaces";
 
