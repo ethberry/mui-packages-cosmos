@@ -12,9 +12,9 @@
     "@ethberry/constants": "0.13.3",
     "@ethberry/firebase-login": "3.0.8",
     "@ethberry/mui-page-layout": "3.0.4",
-    "@ethberry/provider-cosmos": "2.1.0",
+    "@ethberry/provider-cosmos": "3.0.0",
     "@ethberry/react-hooks": "2.0.44",
-    "@ethberry/react-hooks-cosmos": "2.1.0",
+    "@ethberry/react-hooks-cosmos": "3.0.0",
     "@keplr-wallet/types": "0.12.130",
     "uuid": "10.0.0"
   },

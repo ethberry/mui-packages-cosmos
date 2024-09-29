@@ -11,7 +11,7 @@
     "@cosmjs/encoding": "0.32.4",
     "@ethberry/license-messages": "0.0.37",
     "@ethberry/provider-api": "7.0.91",
-    "@ethberry/provider-cosmos": "2.1.0",
+    "@ethberry/provider-cosmos": "3.0.0",
     "@ethberry/provider-license": "3.0.57",
     "@keplr-wallet/types": "0.12.130"
   },
@@ -29,7 +29,7 @@
   "main": "./dist/index.js",
   "name": "@ethberry/react-hooks-cosmos",
   "peerDependencies": {
-    "@ethberry/provider-cosmos": "^2.0.0",
+    "@ethberry/provider-cosmos": "^3.0.0",
     "@ethberry/provider-license": "^3.0.0",
     "@keplr-wallet/types": "^0.12.20",
     "notistack": "^3.0.0",
