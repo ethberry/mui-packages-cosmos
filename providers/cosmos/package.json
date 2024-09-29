@@ -14,10 +14,10 @@
   },
   "description": "react cosmos provider",
   "devDependencies": {
-    "@ethberry/provider-api": "7.0.91",
+    "@ethberry/provider-api": "7.0.92",
     "@ethberry/provider-license": "3.0.57",
-    "@ethberry/provider-popup": "1.0.63",
-    "@ethberry/provider-user": "6.0.97",
+    "@ethberry/provider-popup": "1.0.64",
+    "@ethberry/provider-user": "6.0.98",
     "@mui/icons-material": "6.1.1",
     "@mui/material": "6.1.1",
     "@mui/styles": "6.1.1",
