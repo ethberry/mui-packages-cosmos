@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.0.1 (2024-09-29)
+
+### Bug Fixes
+
+- bump versions ([54a85e9](https://github.com/ethberry/mui-packages/commit/54a85e9b09b8ab233de9baa0f19e254b3ee3c11e))
+- eslint + ethberry ([9dfe773](https://github.com/ethberry/mui-packages/commit/9dfe773fec90489e9adb117b087f77a06de0de3c))
+- versions ([66af488](https://github.com/ethberry/mui-packages/commit/66af48892cdf12745f1e290c3e105704352c8d26))
+
 ## [2.1.3](https://github.com/gemunion/mui-packages/compare/@gemunion/provider-cosmos@2.1.2...@gemunion/provider-cosmos@2.1.3) (2024-09-21)
 
 ### Bug Fixes

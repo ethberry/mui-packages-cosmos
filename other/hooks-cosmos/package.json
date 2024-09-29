@@ -11,7 +11,7 @@
     "@cosmjs/encoding": "0.32.4",
     "@ethberry/license-messages": "0.0.37",
     "@ethberry/provider-api": "7.0.91",
-    "@ethberry/provider-cosmos": "3.0.0",
+    "@ethberry/provider-cosmos": "3.0.1",
     "@ethberry/provider-license": "3.0.57",
     "@keplr-wallet/types": "0.12.130"
   },
@@ -54,5 +54,5 @@
   "sideEffects": false,
   "title": "-=EthBerry Studio=-",
   "types": "./dist/index.d.ts",
-  "version": "3.0.0"
+  "version": "3.0.1"
 }
