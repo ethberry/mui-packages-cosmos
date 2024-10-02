@@ -10,7 +10,7 @@
   "dependencies": {
     "@cosmjs/encoding": "0.32.4",
     "@ethberry/license-messages": "0.0.37",
-    "@ethberry/provider-api": "7.0.92",
+    "@ethberry/provider-api": "7.0.93",
     "@ethberry/provider-cosmos": "3.0.1",
     "@ethberry/provider-license": "3.0.57",
     "@keplr-wallet/types": "0.12.130"
