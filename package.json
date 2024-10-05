@@ -23,7 +23,6 @@
     "react-hook-form": "7.53.0",
     "react-router-dom": "6.26.2",
     "rimraf": "6.0.1",
-    "storybook": "8.3.5",
     "typescript": "5.6.2",
     "webpack": "5.95.0"
   },
@@ -51,7 +50,6 @@
     "obfuscate": "sh scripts/obfuscate.sh",
     "prepare": "husky",
     "prettier": "prettier . --write",
-    "storybook": "storybook dev -p 6006",
     "test": "sh scripts/test.sh"
   },
   "version": "0.0.1"

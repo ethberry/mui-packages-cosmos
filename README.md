@@ -10,8 +10,3 @@ npm run bootstrap
 npm run build
 ```
 
-## Storybook
-
-```sh
-npm run storybook
-```
