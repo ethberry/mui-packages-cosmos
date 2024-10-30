@@ -16,7 +16,7 @@
     "@ethberry/react-hooks": "2.0.45",
     "@ethberry/react-hooks-cosmos": "3.0.1",
     "@keplr-wallet/types": "0.12.130",
-    "uuid": "10.0.0"
+    "uuid": "11.0.2"
   },
   "description": "react keplr login button component",
   "devDependencies": {
