@@ -10,7 +10,7 @@
   "dependencies": {
     "@cosmjs/stargate": "0.32.4",
     "@ethberry/constants": "0.13.5",
-    "@ethberry/firebase-login": "3.0.9",
+    "@ethberry/firebase-login": "3.0.10",
     "@ethberry/mui-page-layout": "3.0.5",
     "@ethberry/provider-cosmos": "3.0.1",
     "@ethberry/react-hooks": "2.0.45",
