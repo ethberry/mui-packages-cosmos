@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.2](https://github.com/ethberry/mui-packages/compare/@ethberry/provider-cosmos@3.0.1...@ethberry/provider-cosmos@3.0.2) (2024-11-04)
+
+### Bug Fixes
+
+- **deps:** update [@ethberry](https://github.com/ethberry) packages ([4eeb506](https://github.com/ethberry/mui-packages/commit/4eeb5067d821acb4971873281b275266a6f8be54))
+- **deps:** update [@ethberry](https://github.com/ethberry) packages ([76160a1](https://github.com/ethberry/mui-packages/commit/76160a156ca707b0801bb6b68fade0924c53891d))
+- **deps:** update [@ethberry](https://github.com/ethberry) packages ([760c0bd](https://github.com/ethberry/mui-packages/commit/760c0bd36fa17273f7022dc5a965eef59f436e0f))
+- **deps:** update all non-major dependencies ([9761fcc](https://github.com/ethberry/mui-packages/commit/9761fcc155836dae38f56e7dcf517f167e0efdee))
+- **deps:** update all non-major dependencies ([3080466](https://github.com/ethberry/mui-packages/commit/3080466dd3e2f554b6de2c5df6ae890d46a93cc2))
+
 ## 3.0.1 (2024-09-29)
 
 ### Bug Fixes
