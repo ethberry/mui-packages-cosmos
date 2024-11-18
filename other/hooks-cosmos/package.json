@@ -13,13 +13,13 @@
     "@ethberry/provider-api": "7.0.95",
     "@ethberry/provider-cosmos": "3.0.2",
     "@ethberry/provider-license": "3.0.59",
-    "@keplr-wallet/types": "0.12.149"
+    "@keplr-wallet/types": "0.12.156"
   },
   "description": "react hooks cosmos",
   "devDependencies": {
     "notistack": "3.0.1",
     "react": "18.3.1",
-    "react-intl": "6.8.6"
+    "react-intl": "6.8.9"
   },
   "engines": {
     "node": ">=22"
