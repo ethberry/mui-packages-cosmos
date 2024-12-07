@@ -18,7 +18,7 @@
   "description": "react hooks cosmos",
   "devDependencies": {
     "notistack": "3.0.1",
-    "react": "18.3.1",
+    "react": "19.0.0",
     "react-intl": "7.0.1"
   },
   "engines": {
@@ -33,7 +33,7 @@
     "@ethberry/provider-license": "^3.0.0",
     "@keplr-wallet/types": "^0.12.20",
     "notistack": "^3.0.0",
-    "react": "^18.0.0",
+    "react": "^18.0.0 || ^19.0.0",
     "react-intl": "^6.0.0 || ^7.0.0"
   },
   "publishConfig": {
