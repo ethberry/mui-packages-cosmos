@@ -8,16 +8,16 @@
     "url": "https://github.com/ethberry/mui-packages/issues"
   },
   "dependencies": {
-    "@ethberry/constants": "0.13.5",
+    "@ethberry/constants": "0.13.6",
     "@keplr-wallet/types": "0.12.159",
     "uuid": "11.0.3"
   },
   "description": "react cosmos provider",
   "devDependencies": {
-    "@ethberry/provider-api": "7.0.95",
-    "@ethberry/provider-license": "3.0.59",
-    "@ethberry/provider-popup": "1.0.67",
-    "@ethberry/provider-user": "6.0.101",
+    "@ethberry/provider-api": "7.0.96",
+    "@ethberry/provider-license": "3.0.60",
+    "@ethberry/provider-popup": "1.0.68",
+    "@ethberry/provider-user": "6.0.102",
     "@mui/icons-material": "6.1.10",
     "@mui/material": "6.1.10",
     "@mui/styles": "6.1.10",
