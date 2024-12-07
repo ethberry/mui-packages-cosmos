@@ -13,7 +13,7 @@
     "@ethberry/provider-api": "7.0.95",
     "@ethberry/provider-cosmos": "3.0.2",
     "@ethberry/provider-license": "3.0.59",
-    "@keplr-wallet/types": "0.12.156"
+    "@keplr-wallet/types": "0.12.159"
   },
   "description": "react hooks cosmos",
   "devDependencies": {
