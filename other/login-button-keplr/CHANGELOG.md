@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.3](https://github.com/ethberry/mui-packages/compare/@ethberry/login-button-keplr@3.0.2...@ethberry/login-button-keplr@3.0.3) (2024-12-07)
+
+### Bug Fixes
+
+- **deps:** update all non-major dependencies ([77d865b](https://github.com/ethberry/mui-packages/commit/77d865b9eb0ae8e0da1b90fee90b57e9e6971766))
+
 ## [3.0.2](https://github.com/ethberry/mui-packages/compare/@ethberry/login-button-keplr@3.0.1...@ethberry/login-button-keplr@3.0.2) (2024-11-04)
 
 ### Bug Fixes
