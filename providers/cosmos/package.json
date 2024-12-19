@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@ethberry/constants": "0.13.6",
-    "@keplr-wallet/types": "0.12.159",
+    "@keplr-wallet/types": "0.12.164",
     "uuid": "11.0.3"
   },
   "description": "react cosmos provider",
@@ -21,11 +21,11 @@
     "@mui/icons-material": "6.1.10",
     "@mui/material": "6.1.10",
     "@mui/styles": "6.1.10",
-    "@types/react": "18.3.14",
+    "@types/react": "18.3.17",
     "@types/uuid": "10.0.0",
     "notistack": "3.0.1",
     "react": "18.3.1",
-    "react-intl": "7.0.1"
+    "react-intl": "7.0.4"
   },
   "engines": {
     "node": ">=22"
