@@ -14,9 +14,9 @@
   },
   "description": "react cosmos provider",
   "devDependencies": {
-    "@ethberry/provider-api": "8.0.1",
-    "@ethberry/provider-popup": "2.0.1",
-    "@ethberry/provider-user": "7.0.1",
+    "@ethberry/provider-api": "8.0.2",
+    "@ethberry/provider-popup": "2.0.2",
+    "@ethberry/provider-user": "7.0.2",
     "@mui/icons-material": "6.4.1",
     "@mui/material": "6.4.1",
     "@mui/styles": "6.4.1",
