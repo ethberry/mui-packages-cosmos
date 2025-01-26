@@ -8,18 +8,18 @@
     "url": "https://github.com/ethberry/mui-packages/issues"
   },
   "dependencies": {
-    "@cosmjs/encoding": "0.32.4",
+    "@cosmjs/encoding": "0.33.0",
     "@ethberry/license-messages": "0.0.37",
     "@ethberry/provider-api": "8.0.1",
     "@ethberry/provider-cosmos": "3.0.3",
     "@ethberry/provider-license": "4.0.0",
-    "@keplr-wallet/types": "0.12.159"
+    "@keplr-wallet/types": "0.12.177"
   },
   "description": "react hooks cosmos",
   "devDependencies": {
-    "notistack": "3.0.1",
+    "notistack": "3.0.2",
     "react": "18.3.1",
-    "react-intl": "7.0.1"
+    "react-intl": "7.1.5"
   },
   "engines": {
     "node": ">=22"
