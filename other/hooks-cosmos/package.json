@@ -10,7 +10,7 @@
   "dependencies": {
     "@cosmjs/encoding": "0.33.0",
     "@ethberry/provider-api": "8.0.2",
-    "@ethberry/provider-cosmos": "3.0.3",
+    "@ethberry/provider-cosmos": "3.0.4",
     "@keplr-wallet/types": "0.12.177"
   },
   "description": "react hooks cosmos",
@@ -51,5 +51,5 @@
   "sideEffects": false,
   "title": "-=EthBerry Studio=-",
   "types": "./dist/index.d.ts",
-  "version": "3.0.3"
+  "version": "3.0.4"
 }

@@ -12,9 +12,9 @@
     "@ethberry/constants": "0.13.6",
     "@ethberry/firebase-login": "4.0.1",
     "@ethberry/mui-page-layout": "4.0.1",
-    "@ethberry/provider-cosmos": "3.0.3",
+    "@ethberry/provider-cosmos": "3.0.4",
     "@ethberry/react-hooks": "3.0.1",
-    "@ethberry/react-hooks-cosmos": "3.0.3",
+    "@ethberry/react-hooks-cosmos": "3.0.4",
     "@keplr-wallet/types": "0.12.177",
     "uuid": "11.0.5"
   },
@@ -67,5 +67,5 @@
   "sideEffects": false,
   "title": "-=EthBerry Studio=-",
   "types": "./dist/index.d.ts",
-  "version": "3.0.3"
+  "version": "3.0.4"
 }
