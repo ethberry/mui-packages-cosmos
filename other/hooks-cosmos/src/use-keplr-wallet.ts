@@ -2,8 +2,6 @@ import { enqueueSnackbar } from "notistack";
 import { useIntl } from "react-intl";
 import { Keplr, OfflineAminoSigner, OfflineDirectSigner } from "@keplr-wallet/types";
 
-import { downForMaintenance } from "@ethberry/license-messages";
-import { useLicense } from "@ethberry/provider-license";
 import { useCosmos } from "@ethberry/provider-cosmos";
 
 import { IHandlerOptionsParams } from "./interfaces";
@@ -12,20 +10,12 @@ export const useKeplrWallet = <T = any>(
   fn: (keplr: Keplr, offlineSigner: OfflineAminoSigner & OfflineDirectSigner, ...args: Array<any>) => Promise<T>,
   options: IHandlerOptionsParams = {},
 ) => {
-  const license = useLicense();
   const { setAccount, setIsKeplrConnected } = useCosmos();
 
   const { formatMessage } = useIntl();
   const { success = true, error = true } = options;
 
   return async (...args: Array<any>): Promise<T> => {
-    if (!license.isValid()) {
-      return Promise.reject(downForMaintenance()).catch((e: string) => {
-        enqueueSnackbar(e, { variant: "error" });
-        return null as unknown as T;
-      });
-    }
-
     const { keplr, getOfflineSigner, open } = window;
 
     const chainId = "haqq_11235-1";

@@ -21,7 +21,6 @@
   "description": "react keplr login button component",
   "devDependencies": {
     "@ethberry/provider-api": "8.0.1",
-    "@ethberry/provider-license": "4.0.0",
     "@ethberry/provider-user": "7.0.1",
     "@mui/material": "6.4.1",
     "@mui/styles": "6.4.1",
@@ -39,17 +38,16 @@
   "main": "./dist/index.js",
   "name": "@ethberry/login-button-keplr",
   "peerDependencies": {
-    "@ethberry/provider-api": "^7.0.0 || ^8.0.0",
-    "@ethberry/provider-license": "^3.0.0 || ^4.0.0",
-    "@ethberry/provider-user": "^6.0.0 || ^7.0.0",
+    "@ethberry/provider-api": "^8.0.0",
+    "@ethberry/provider-user": "^7.0.0",
     "@ethberry/types-jwt": "^0.4.0",
     "@mui/material": "^6.0.0",
     "@mui/styles": "^6.0.0",
     "notistack": "^3.0.0",
-    "react": "^18.0.0 || ^19.0.0",
-    "react-intl": "^6.0.0 || ^7.0.0",
-    "react-router": "^6.0.0 || ^7.0.0",
-    "react-router-dom": "^6.0.0 || ^7.0.0"
+    "react": "^19.0.0",
+    "react-intl": "^7.0.0",
+    "react-router": "^7.0.0",
+    "react-router-dom": "^7.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

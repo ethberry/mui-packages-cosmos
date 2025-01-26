@@ -3,7 +3,6 @@ import { Badge, Box, IconButton, Tooltip } from "@mui/material";
 import { useIntl } from "react-intl";
 
 import { usePopup } from "@ethberry/provider-popup";
-import { useLicense } from "@ethberry/provider-license";
 import { useUser } from "@ethberry/provider-user";
 
 import { WalletIcon } from "../icon";
@@ -13,17 +12,12 @@ import { WalletDialog } from "../dialog";
 export const KeplrButton: FC = () => {
   const { isOpenPopup, openPopup } = usePopup();
   const { formatMessage } = useIntl();
-  const license = useLicense();
   const { profile } = useUser<any>();
   const { account, closeConnectCosmosDialog, isKeplrConnected, chain } = useCosmos();
 
   const handleOpenDialog = () => {
     openPopup(COSMOS_CONNECT_POPUP_TYPE);
   };
-
-  if (!license.isValid()) {
-    return null;
-  }
 
   const isChainValid = !profile || !chain?.chain_id || profile?.chainId === chain?.chain_id;
 

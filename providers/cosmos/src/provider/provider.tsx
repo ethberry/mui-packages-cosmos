@@ -1,6 +1,5 @@
 import { FC, PropsWithChildren, useEffect, useState } from "react";
 
-import { useLicense } from "@ethberry/provider-license";
 import { usePopup } from "@ethberry/provider-popup";
 import { useUser } from "@ethberry/provider-user";
 
@@ -16,7 +15,6 @@ export interface ICosmosProviderProps {
 export const CosmosProvider: FC<PropsWithChildren<ICosmosProviderProps>> = props => {
   const { children, enabledChains } = props;
 
-  const license = useLicense();
   const { openPopup, closePopup, isOpenPopup } = usePopup();
   const { profile } = useUser<any>();
   const { registeredChains } = useRegisteredChains();
@@ -46,10 +44,6 @@ export const CosmosProvider: FC<PropsWithChildren<ICosmosProviderProps>> = props
       setChain(foundChain || null);
     }
   }, [profile, registeredChains]);
-
-  if (!license.isValid()) {
-    return null;
-  }
 
   return (
     <CosmosContext.Provider
